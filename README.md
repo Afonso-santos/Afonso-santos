@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Afonso-santos
-- 👀 I’m interested in games ,sports 
+- 👀 I’m interested in games, sports and learn more about coding  
 - 🌱 I’m currently learning  how to be  a IT engineer 
 - 💞️ I’m looking to collaborate...
 - 📫 How to reach me afonso.ds33@gmail.com
