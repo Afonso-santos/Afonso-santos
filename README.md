@@ -17,7 +17,7 @@
 - :zap: In my free time, I like to do sports, hang out with friends and learn new stuff.
   - Fun fact: i've been practicing  Jiu Jitsu for 6 years, which 3 where dedicated to competition.
   
-- 📄 Know about my experiences: I contibute in my informatic students association <a href="cesium.link">CeSIUM</a>.
+- 📄 Know about my experiences: I contribute in my informatic students association <a href="cesium.link">CeSIUM</a>.
 
 - :mailbox: How to reach me: afonso.ds33@gmail.com.
 </p>
