@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Afonso Dionísio Santos</h1>
-- 📫 How to reach me ** afonso.ds33@gmail.com **
+- 📫 How to reach me afonso.ds33@gmail.com 
 
 - 📄 Know about my experiences: currently enrolled in the first year of the bachelor's degreeCurrently enrolled in the first year of the bachelor's degree.
                                 
