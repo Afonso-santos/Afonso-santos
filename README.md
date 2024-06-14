@@ -1,29 +1,67 @@
-
 <div id="header" align="center">
   <img src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif" width=1200/>
-  <h1 align="center">Hi 👋, I'm Afonso Dionísio Santos </h1>
 
 </div>
 
+# 👋 Hello, I´m Afonso Dionísio Santos :)
+
+### I'm a Software Engineering Student @ [UMinho](https://uminho.pt)
+- ♠️ Co-Director | Open Scource Department @ [CeSIUM](cesium.di.uminho.pt)
+- ♦️ From Guimarães, Portugal
+- ♣️ Actively trying to be a better developer each day.
+- ♥️ I like to lear new things, play some games and volleyball in my free time.
+- ☯ Also a mentor @ [CoderDojoBraga](https://coderdojobraga.org) where we teach 7 to 17 years old how to code!
+- 👾 Cunrrently I am learing Cybersecurity  adventure me in tryhackme hacktheBox ...
+
+<div align="center">
+  
+**You can find me here:**
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Afonso,ds33@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afonso-santos-a8577524b/)
+
 </div>
 
-### :superhero: About me :
-<p align="left">
-  
-- :telescope: I’m studying at **University of Minho**.
+##   🖥Technologies
 
-- :seedling: Learning **Computer Science and Engineering**.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 
-- :zap: In my free time, I like to do sports, hang out with friends and learn new stuff.
-  - Fun fact: i've been practicing  Jiu Jitsu for 6 years, which 3 where dedicated to competition.
-  
-- 📄 Know about my experiences: I contribute in my informatic students association <a href="cesium.link">CeSIUM</a>.
+![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SqlServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-- :mailbox: How to reach me: afonso.ds33@gmail.com.
-</p>
+![NextJS](https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-001e26?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+<!--
+![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512bd4?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+-->
 
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-121b2d?style=for-the-badge&logo=tailwind-css&logoColor=16bdca)
+![CSS](https://img.shields.io/badge/CSS-1b73ba?&style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-e44d26?style=for-the-badge&logo=html5&logoColor=white)
 
+## ⚙️Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Intellij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU%20Bash-242c34?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](	https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+<!--![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)-->
+
+## 📃 CV
+
