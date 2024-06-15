@@ -3,9 +3,10 @@
 
 </div>
 
-# 👋 Hello, I´m Afonso Dionísio Santos :)
+# 👋 Hello there,
+ I´m Afonso Dionísio Santos, before you dive into my profile, here are few things I want to know about me! 
 
-### I'm a Software Engineering Student @ [UMinho](https://uminho.pt)
+#### I'm a Software Engineering Student @ [UMinho](https://uminho.pt)
 - ♠️ Co-Director | Open Scource Department @ [CeSIUM](cesium.di.uminho.pt)
 - ♦️ From Guimarães, Portugal
 - ♣️ Actively trying to be a better developer each day.
