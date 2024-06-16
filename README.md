@@ -11,8 +11,8 @@
 - ♦️ From Guimarães, Portugal
 - ♣️ Actively trying to be a better developer each day.
 - ♥️ I like to learn new things, play some games and volleyball in my free time.
-- ☯ Also a mentor @ [CoderDojoBraga](https://coderdojobraga.org) where we teach 7 to 17 years old how to code!
-- 👾 Cunrrently I am learing Cybersecurity  adventure me in tryhackme hacktheBox ...
+- ☯ Also a mentor @ [CoderDojoBraga](https://coderdojobraga.org) where we teach 7 to 17 year olds how to code!
+- 👾 Currently I am learing Cybersecurity  challenging myself in tryhackme hacktheBox ...
 
 <div align="center">
   
