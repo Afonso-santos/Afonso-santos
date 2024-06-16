@@ -4,7 +4,7 @@
 </div>
 
 # 👋 Hello there,
- I´m Afonso Dionísio Santos, before you dive into my profile, here are few things I want to know about me! 
+ I´m Afonso Dionísio Santos, before you dive into my profile, here are few things I want you to know about me! 
 
 #### I'm a Software Engineering Student @ [UMinho](https://uminho.pt)
 - ♠️ Co-Director | Open Scource Department @ [CeSIUM](cesium.di.uminho.pt)
