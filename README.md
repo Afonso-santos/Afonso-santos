@@ -4,15 +4,15 @@
 </div>
 
 # 👋 Hello there,
- I´m Afonso Dionísio Santos, before you dive into my profile, here are few things I want you to know about me! 
 
-#### I'm a Software Engineering Student @ [UMinho](https://uminho.pt)
-- ♠️ Organizer of Bugsbyte Hackathon - Vogal @ [CeSIUM](cesium.di.uminho.pt)
-- ♦️ From Guimarães, Portugal
-- ♣️ Actively trying to be a better developer each day.
-- ♥️ I like to learn new things, play some games and volleyball in my free time.
-- ☯ Also a mentor @ [CoderDojoBraga](https://coderdojobraga.org) where we teach 7 to 17 year olds how to code!
-- 👾 Currently I am learing Cybersecurity  challenging myself in tryhackme hacktheBox ...
+I'm **Afonso Dionísio Santos** — before you dive into my profile, here are a few things I'd like you to know about me!  
+
+#### 🎓 I'm an International Cybersecurity and Cyberintelligence Student @ [Arqus Alliance](https://arqus-alliance.eu/study-in-arqus/joint-masters-programmes/master-in-cybersecurity-cyberintelligence)
+- 🤖 I hold a **BSc in Software Engineering** @ [University of Minho](https://www.uminho.pt/pt/ensino/oferta-educativa/cursos-conferentes-a-grau/_layouts/15/uminho.portalum.ui/pages/catalogocursodetail.aspx?itemid=5055&catid=15)  
+- 💾 I'm **curious by nature and constantly learning** 
+- 🌱 Outside of tech, I'm passionate about **pop culture, music**, and I love playing **volleyball**  
+- 👨🏻‍💻 I'm currently **building a personal knowledge base**
+     - a collection of notes and resources on **cybersecurity, intelligence analysis and digital forensics**
 
 <div align="center">
   
