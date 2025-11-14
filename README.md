@@ -9,7 +9,7 @@ I'm **Afonso Dionísio Santos** — before you dive into my profile, here are a 
 
 #### 🎓 I'm an International Cybersecurity and Cyberintelligence Student @ [Arqus Alliance](https://arqus-alliance.eu/study-in-arqus/joint-masters-programmes/master-in-cybersecurity-cyberintelligence)
 - 🤖 I hold a **BSc in Software Engineering** @ [University of Minho](https://www.uminho.pt/pt/ensino/oferta-educativa/cursos-conferentes-a-grau/_layouts/15/uminho.portalum.ui/pages/catalogocursodetail.aspx?itemid=5055&catid=15)  
-- 💾 I'm **curious by nature and constantly learning** 
+- 💾 I'm **curious and open to new experiences**, and I'm **always learning**.
 - 🌱 Outside of tech, I'm passionate about **pop culture, music**, and I love playing **volleyball**  
 - 👨🏻‍💻 I'm currently **building a personal knowledge base**
      - a collection of notes and resources on **cybersecurity, intelligence analysis and digital forensics**
